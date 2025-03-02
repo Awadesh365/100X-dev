@@ -1,10 +1,10 @@
 # **Learning the New Way: Adapting to Real-World Problem Solving**
 
-You're not in school anymore. You are no longer expected to memorize an entire tech stack or master every single concept before you start working on something. The reality of professional development is that you learn as you go. Instead of spending weeks following an online course just to learn a framework inside out, adopt a more practical approach: learn what you need, when you need it.
+You're not in school anymore. You are no longer expected to memorize an entire tech stack or master every single concept before you start working on something. The reality of professional development is that you learn as you go. Instead of spending weeks following an online course just to learn a framework inside out, adopt a more practical approach: learn what you need, when you need it—during office hours only.
 
 ### **Learn What You Use, When You Use It**
 
-Whatever technology, library, or tool you’re working with—just learn what is necessary at that moment. Let’s say you're using Material UI and need to implement a layout. You don’t need to go through the entire documentation of Material UI from A to Z. If your task requires using **Grid**, **Box**, or **Stack**, focus on just those components. Read the docs, experiment, and move forward. You are not a student in a classroom; you are a professional solving real-world problems.
+Whatever technology, library, or tool you’re working with—just learn what is necessary at that moment within office hours. Let’s say you're using Material UI and need to implement a layout. You don’t need to go through the entire documentation of Material UI from A to Z. If your task requires using **Grid**, **Box**, or **Stack**, focus on just those components. Read the docs, experiment, and move forward. You are not a student in a classroom; you are a professional solving real-world problems.
 
 ### **Deciding Between Bare Minimum or Industry Standard**
 
@@ -27,11 +27,11 @@ When a designer hands you a design, don’t rush into coding right away. Follow 
 
 You are a problem solver. Every issue you face is solvable, so keep yourself **calm and wise**. Challenges will arise daily, and it’s your job to break them down, find solutions, and move forward.
 
-### **Mark It, Learn It, and Move On**
+### **Learn in Office Hours Only**
 
-Not everything needs to be learned from scratch. If you encounter something unfamiliar, **learn it then and there** or **mark it to be learned by the end of the day**. The key is to stay adaptable and efficient without getting stuck in the cycle of endless learning before execution.
+Not everything needs to be learned from scratch. If you encounter something unfamiliar, **learn it during office hours** or **schedule a dedicated time within your work schedule**. If more learning is needed, extend office hours by an hour—but keep all learning and contributions within office time.
 
 ### **Final Thoughts**
 
-The modern developer's approach is about continuous, on-the-go learning. Don’t wait to complete a course before starting—just **learn what you need and execute**. Engage with your team, ask questions, use AI tools, and embrace challenges as they come. This mindset will make you a better developer and a more effective problem solver.
+The modern developer's approach is about continuous, on-the-go learning—but within professional boundaries. Don’t wait to complete a course before starting—just **learn what you need, execute within office hours, and move forward**. Engage with your team, ask questions, use AI tools, and embrace challenges as they come. When you leave the office, leave the learning there too.
 
